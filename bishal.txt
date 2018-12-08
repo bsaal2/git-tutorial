@@ -1,3 +1,7 @@
 This is Bishal
 
+<<<<<<< HEAD
 This is second commit from Master branch
+=======
+This content is on added branch
+>>>>>>> bsaal2
