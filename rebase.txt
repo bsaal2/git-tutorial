@@ -1,0 +1,4 @@
+Git Rebase
+
+- It is destructive in nature
+- It re-creates all the commit thus changing the history of the project
