@@ -2,3 +2,7 @@ Git Rebase
 
 - It is destructive in nature
 - It re-creates all the commit thus changing the history of the project
+
+
+Commit 1
+- This test is to test the rebase strategy of merging in the git.
